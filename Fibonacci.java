@@ -22,5 +22,5 @@ public class Fibonacci {
             y = result;
         }
     }
-    
+    //Nice    
 }
